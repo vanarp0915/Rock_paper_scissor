@@ -1,8 +1,11 @@
 import cv2
 import os
 import sys
+
+__author__      = "Vanarp0915"
+
 videoCaptureObject = cv2.VideoCapture(0)
-image_path= "image_data"
+image_path= "data"
 next_path= sys.argv[1]
 path=os.path.join(image_path, next_path)
 os.mkdir(path)
