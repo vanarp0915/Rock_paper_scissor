@@ -10,7 +10,7 @@ import os
 
 __author__      = "Vanarp0915"
 
-IMG_SAVE_PATH = 'image_data'
+IMG_SAVE_PATH = 'data'
 CLASS_MAP = {
     "rock": 0,
     "paper": 1,
