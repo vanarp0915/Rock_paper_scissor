@@ -38,7 +38,7 @@ python3 image_collecting.py scissor 500
 ### Collecting the data set for none
 By Executing the command below a cv2 window will be pop out with the square box in it. By pressing "a" button on the keyboard, the script starts continouesly takes 500 snap short of the box. No guestures should be shown during this execution
 ```
-python3 image_collecting.py scissor 500
+python3 image_collecting.py scissors 500
 ```
 ## Training the data
 By execting the script below it creates a model "rock_paper_scissor.h5"
