@@ -6,7 +6,7 @@ An unbeatable rock/paper/scissor game using opencv and tensorflow
 * Clone the repository
 
 ```
-https://github.com/vanarp0915/Rock_paper_scissor
+git clone https://github.com/vanarp0915/Rock_paper_scissor
 ```
 * Installing the dependencies
 ```
